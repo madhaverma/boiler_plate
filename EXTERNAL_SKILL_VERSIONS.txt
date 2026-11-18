@@ -1,0 +1,6 @@
+make-interfaces-feel-better=6d9f2f1df10e8ce2ae1708598a73b0506fb98794 https://github.com/jakubkrehel/make-interfaces-feel-better.git
+gsap-skills=aed9cfd3277740755f6bfc1155c7aa645403b760 https://github.com/greensock/gsap-skills.git
+impeccable=d41d9860b0094dcb68030657da63461212835aaa https://github.com/pbakaus/impeccable.git
+transitions.dev=738de6da39c042fd71ae10c8d819b42630880a29 https://github.com/Jakubantalik/transitions.dev.git
+taste-skill=f6b76575f949707b4e3c37cd86cb44b0b98643e8 https://github.com/Leonxlnx/taste-skill.git
+ui-ux-pro-max-skill=f984fcd3dec8c71cf88f2b47ff8acd0ff4ca99c2 https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
